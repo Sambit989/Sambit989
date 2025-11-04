@@ -9,8 +9,6 @@ I’m passionate about building intelligent systems that bridge the gap between 
 ## 🚀 About Me
 
 💻 **B.Tech CSE (Prefinal Year)** at GIET University, Gunupur
-🏢 **Founder** – [SentientWare Tech Solutions Pvt. Ltd.](#)
-🌍 **Founder** – [Sampark NGO](#) (Empowering communities through education, health, and technology)
 📊 **Interest Areas:** Full Stack Development • Data Science • AI/NLP • IoT • Cloud Computing
 
 ---
@@ -79,7 +77,7 @@ ESP32-based monitoring system with device logs and web dashboard integration.
 
 🌐 **Portfolio:** [www.sambitpatra.tech](#)
 💼 **LinkedIn:** [linkedin.com/in/sambit-patra-607a42192](#)
-📧 **Email:** *[yourname@example.com](mailto:yourname@example.com)*
+📧 **Email:** *[sambitpatra932@gmail.com](mailto:sambitpatra932@gmail.com)*
 
 ---
 
