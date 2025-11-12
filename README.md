@@ -18,9 +18,8 @@
 - 🎓 *Prefinal-year B.Tech CSE student* at *GIET University, Gunupur*  
 - 🧠 Passionate about *building intelligent systems* that blend tech & social impact  
 - 🚀 Founder of *SentientWare Tech Solutions Pvt. Ltd.*  
-- 🌍 Founder of *Sampark NGO* — Empowering communities via education, health & technology  
 - 💡 Interests: *Full Stack Development, **AI/NLP, **IoT, **Cloud Computing, **Automation*  
-- 📫 Reach me at *sambitpatra.work@gmail.com*
+- 📫 Reach me at *sambitpatra989@gmail.com*
 
 ---
 
