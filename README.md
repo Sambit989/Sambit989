@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 *Prefinal-year B.Tech CSE student* at *GIET University, Gunupur*  
+- 🎓 *Final-year B.Tech CSE student* at *GIET University, Gunupur*  
 - 🧠 Passionate about *building intelligent systems* that blend tech & social impact  
 - 🚀 Founder of *SentientWare Tech Solutions Pvt. Ltd.*  
 - 💡 Interests: *Full Stack Development, **AI/NLP, **IoT, **Cloud Computing, **Automation*  
