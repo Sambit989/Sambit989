@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sambit Patra</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Data Science & AI Enthusiast | Founder of SentientWare Tech Solutions</strong>
+  <strong>Full Stack Developer | Data Science & AI Enthusiast </strong>
 </p>
 
 <p align="center">
